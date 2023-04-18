@@ -1,0 +1,2 @@
+#!/bin/bash
+find . -tyype d -not -name "." | wc -l
